@@ -13,12 +13,13 @@
     <img align="center" alt="htmlt5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img align="center" alt="htmlt5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="htmlt5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="htmlt5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img align="center" alt="htmlt5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><br/><br/>
     <img align="center" alt="htmlt5" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img align="center" alt="htmlt5" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
     <img align="center" alt="htmlt5" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
 </div><br/>
-Sou fascinada por tecnologia e atualmente estou estudando Análise e Desenvolvimento de Sistemas no IFRN. 🎇
+Sou fascinada por tecnologia e atualmente estou estudando Análise e Desenvolvimento<br/>
+de Sistemas no IFRN. 🎇
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="htmlt5" src="https://i.pinimg.com/originals/8e/3d/b9/8e3db98c9f6569e71a1a4f998988d92d.gif">
