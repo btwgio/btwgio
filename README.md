@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-albuquerque-8a45b2148/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovm14@gmail.com?subject=&body=Ol%C3%A1%2C%20gostaria%20de%20entrar%20em%20contato.)
 
-![Vtwgio's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=btwgio&show_icons=true&theme=dracula)
+![Vtwgio's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=btwgio&show_icons=true&theme=)
 
 ![Btwgio's GitHub stats](https://github-readme-stats.vercel.app/api?username=btwgio&show_icons=true&theme=dracula)
 
